@@ -1,0 +1,16 @@
+{
+    "chat.agent.thinking.phrases": {
+        "mode": "append",
+        "phrases": []
+    },
+    "editor.formatOnSave": true,
+    "files.exclude": {
+        "": true
+    },
+    "editor.mouseWheelZoom": true,
+    "editor.formatOnPaste": true,
+    "editor.allowVariableFontsInAccessibilityMode": true,
+    "editor.autoIndentOnPaste": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.codeActions.triggerOnFocusChange": true
+}
